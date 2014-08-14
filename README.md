@@ -11,6 +11,6 @@ it determines the BMI and concludes in what category is that person: *underweigh
 1 Height can either be given in centimeters or feet/inches units, 
   - for feet/inches, use the principal input for feet and the secondary for inches,
   - for centimeters, use only principal input and don't worry about secondary one.
-2 Weight in kilograms or pounds. 
-3 After introducing the numerical values, their units have to be indicated. 
-4 Then click the submit button to determine the BMI and the category.
++ Weight in kilograms or pounds. 
++ After introducing the numerical values, their units have to be indicated. 
++ Then click the submit button to determine the BMI and the category.
